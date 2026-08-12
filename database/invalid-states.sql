@@ -1,0 +1,12 @@
+-- Indice de la bateria. Cada caso se ejecuta de forma aislada mediante:
+--   ./scripts/run-attack.sh <1-6>
+--
+-- 1: estudiante sin email
+-- 2: email duplicado
+-- 3: capacidad negativa
+-- 4: student_id inexistente
+-- 5: course_id inexistente
+-- 6: inscripcion duplicada
+--
+-- Los archivos ejecutables estan en database/attacks/ para que un error
+-- esperado no impida continuar con los demas casos.
