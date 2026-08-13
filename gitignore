@@ -1,0 +1,2 @@
+# esto es para indicar que todos los archivos db quedan excluidos del add de git
+*.db  
